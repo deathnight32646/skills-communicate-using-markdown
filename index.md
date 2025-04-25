@@ -5,3 +5,7 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+- [ ] Fuck you Alexender.
+- [ ] You are a loser.
+- [ ] I will finish Azure full course in 4 Month.
